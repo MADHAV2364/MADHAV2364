@@ -12,7 +12,7 @@ As a CSE(CORE) Student with a keen interest in web development, cloud computing,
 
 
 # 📊 GitHub Stats:
-<img align='right' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiN2M2NzUzLTk1NmItNDMyNy04ZGI5LTI3OTc1YWQ0MzI1M1wvZGIyYnBkNS0wYjVjZDllYS01M2NjLTQwOWMtOTFiYi0xNjUxYmUzOTNiNmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4QBd2gjsm3Vh9tn6NbGuZwz5icDzNLe5QSC2uFlzpdI' width='200"'>
+<img align='right' src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db7c6753-956b-4327-8db9-27975ad43253/db2bpd5-0b5cd9ea-53cc-409c-91bb-1651be393b6c.gif' width='200"'>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=MADHAV2364&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
